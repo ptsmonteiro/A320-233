@@ -1,0 +1,33 @@
+newmtl acmat_0
+Kd 1 1 0.903
+Ka 0.2 0.2 0.2
+Ks 0.5 0.5 0.5
+Ns 128
+Tr 0
+map_Kd A320_cockpit_texture.png
+newmtl acmat_1
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+Ns 128
+Tr 0
+map_Kd A320_cockpit_texture.png
+newmtl acmat_2
+Kd 1 1 0
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_3
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+Ns 128
+Tr 0
+map_Kd A320_cockpit_texture.png
+newmtl acmat_4
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+Ns 128
+Tr 0

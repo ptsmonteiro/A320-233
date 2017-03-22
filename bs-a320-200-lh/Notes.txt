@@ -1,0 +1,14 @@
+Background Images: 
+
+- side frontwork: -0,213
+- side backwork: +0,24
+- side enginework:  -0,113
+- side wingwork: +0.017
+
+- front standard: -0,12
+- front enginework: -0,02
+
+Window Build: 
+
+Extrude -.01
+Scale y .6
